@@ -1,3 +1,4 @@
+```json
 {
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 14,
@@ -47,3 +48,4 @@
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false
 }
+```
